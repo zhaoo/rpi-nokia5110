@@ -1,0 +1,12 @@
+{
+  "name": "rpi-nokia5110",
+  "version": "1.0.0",
+  "description": "Nokia 5110 Library for Raspberry PI",
+  "keywords":["Raspberry", "Nokia 5110", "js", "pcd8544"],
+  "main": "index.js",
+  "author": "zhaoo <izhaoo@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rpio": "^2.4.2"
+  }
+}
